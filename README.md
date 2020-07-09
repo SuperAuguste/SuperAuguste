@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 Hello mate, it's big aug here!
 
+I use the pronouns he/him/bad programmer.
+
 Naw, but jokes aside, hi, I'm Auguste! I'm a programmer that loves trying out new things! I'm currently doing things with Zig and the Zig Community, and so far, it's been a bundle of fun!
+
+I'm working on a piece of software that will enable me to embed a soft of interactive svg website thing in here - hopefully I'll finish that soon!
