@@ -23,4 +23,4 @@ Naw, but jokes aside, hi, I'm Auguste! I'm a programmer that loves trying out ne
 
 I'm working on a piece of software that will enable me to embed a soft of interactive svg website thing in here - hopefully I'll finish that soon!
 
-![svg](/test.svg)
+![svg](https://raw.githubusercontent.com/SuperAuguste/SuperAuguste/master/test.svg)
