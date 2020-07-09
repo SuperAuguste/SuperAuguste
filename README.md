@@ -23,5 +23,8 @@ Naw, but jokes aside, hi, I'm Auguste! I'm a programmer that loves trying out ne
 
 I'm working on a piece of software that will enable me to embed a soft of interactive svg website thing in here - hopefully I'll finish that soon!
 
-<svg>
+<svg height="100" width="500">
+  <ellipse cx="240" cy="50" rx="220" ry="30" style="fill:yellow" />
+  <ellipse cx="220" cy="50" rx="190" ry="20" style="fill:white" />
+  Sorry, your browser does not support inline SVG.
 </svg>
