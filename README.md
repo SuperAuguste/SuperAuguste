@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello mate, it's big aug here!
+
+Naw, but jokes aside, hi, I'm Auguste! I'm a programmer that loves trying out new things! I'm currently doing things with Zig and the Zig Community, and so far, it's been a bundle of fun!
