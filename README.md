@@ -1,1 +1,1 @@
-![svg](https://raw.githubusercontent.com/SuperAuguste/SuperAuguste/f22fd3e64ff293415465d9357dc7715e584a0f13/readme.svg)
+![svg](https://raw.githubusercontent.com/SuperAuguste/SuperAuguste/6519fb23ae3ef8ead4d1e0d1553baa036661c80b/readme.svg)
