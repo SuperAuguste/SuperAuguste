@@ -7,8 +7,11 @@ I ❤️:
 
 I also know:
 - HTML/CSS/JS
-- Java
 - C#
 - Python
 - PowerShell
 - Golang
+
+I'm ashamed to know:
+- Java
+- PHP
