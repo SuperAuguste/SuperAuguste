@@ -1,1 +1,3 @@
-![svg](https://raw.githubusercontent.com/SuperAuguste/SuperAuguste/6519fb23ae3ef8ead4d1e0d1553baa036661c80b/readme.svg)
+# Hello World
+
+Hi! I'm Auguste, a student, programmer, and ziguana! I wanted to put a memey SVG on here, but I have to figure out a few technical things before I do that!
