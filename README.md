@@ -1,17 +1,7 @@
-# Hello World
+## Employers
 
-Hi, I'm Auguste! I'm a student, programmer, and ziguana! I wanted to put a memey SVG on here, but I have to figure out a few technical things before I do that!
+I'm a solutions-oriented traditional computing-based real-time multi-experience change-maker working on creating novel best-in-breed tooling to disrupt, transform, and datafy the software industry. I've been utilizing the [Zig programming language](https://ziglang.org/) to ameliorate code literacy with cutting-edge end-to-end technology. Cloud computing. Machine learning. Digital divide. Metaverse. Web3.
 
-I ❤️:
-- [Zig](https://github.com/ziglang)
+## Everyone else
 
-I also know:
-- HTML/CSS/JS
-- C#
-- Python
-- PowerShell
-- Golang
-
-I'm ashamed to know:
-- Java
-- PHP
+Hey, I'm Auguste and I work on language tooling, protocols and formats, hacky interpreters, and all sorts of other fun projects, primarily in [Zig](https://ziglang.org/)! My main "claim to fame" is [zls](https://github.com/zigtools/zls), a language server for Zig which implements completions, goto def, and more to help Zig programmers be more productive. Feel to reach out by joining the [Zig Discord](https://discord.gg/zig) and DMing \@aurame.
