@@ -1,4 +1,4 @@
-## Employers
+## Recruiters
 
 I'm a solutions-oriented traditional computing-based real-time multi-experience change-maker working on creating novel best-in-breed tooling to disrupt, transform, and datafy the software industry. I've been utilizing the [Zig programming language](https://ziglang.org/) to ameliorate code literacy with cutting-edge end-to-end technology. Cloud computing. Machine learning. Digital divide. Metaverse. Web3.
 
