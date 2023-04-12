@@ -4,5 +4,5 @@ Hey, I'm Auguste and I work on language tooling, protocols and formats, hacky in
 
 Some of my areas of interest include:
 - Tooling, specifically language and editor tooling
-- The Java Virtual Machine
+- Rust
 - Protocols and formats of all sorts
